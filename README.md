@@ -20,3 +20,9 @@ pip install -r requirements.txt
 
 ## 🏨免责声明
 > 请勿非法、破坏、入侵式使用否则后果自负与开源作者无关
+
+
+
+
+## new
+可不用python，安装node，使用node执行js，通过控制台获取
