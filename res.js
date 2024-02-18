@@ -11559,3 +11559,4 @@ function getAntiContent(ua) {
     return res.messagePack()
 }
 
+module.exports.getAntiContent=getAntiContent;
